@@ -1,0 +1,5 @@
+checkout -- muda o branch(git checkout desing)
+
+commit -m 'titulo'
+
+git push -u origin design (informa q o repositorio local deve ser igual ao repositorio remoto, para nao dar erro em branch na hora de executar um pull)
